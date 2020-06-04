@@ -7,6 +7,7 @@ import java.net.URL;
 import java.net.URLConnection;
 
 /**
+ * url就是网址的意思
  *测试 Url
  */
 public class UrlTest {
